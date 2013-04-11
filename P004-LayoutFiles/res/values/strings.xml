@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">LayoutFiles</string>
+    <string name="hello_world">Hello World</string>
+    <string name="newScreen">Bu ekranın özellikleri main.xml değil myscreen.xml dosyada belirleniyor</string>
+    <string name="menu_settings">Settings</string>
+
+</resources>
